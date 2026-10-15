@@ -1,0 +1,72 @@
+﻿Category,Subcategory,Item ID,Name (English),Name (Hindi),Type,Unit,Price,Variants,Description
+Soup & Momos,Soup,chicken-manchow-soup,Chicken Manchow Soup,चिकन मनचाउ सूप,non-veg,1 bowl,120,,
+Soup & Momos,Soup,chicken-hot-and-sour-soup,Chicken Hot & Sour Soup,चिकन हॉट न शावर सूप,non-veg,1 bowl,120,,
+Soup & Momos,Momos,chicken-momos,Chicken Momos,चिकन मोमोस,non-veg,6 pcs,160,,
+Soup & Momos,Momos,chicken-chilli-momos,Chicken Chilli Momos,चिकन चिल्ली मोमोस,non-veg,6 pcs,180,,
+Soup & Momos,Momos,roasted-chicken-momos,Roasted Chicken Momos,रोस्टेड चिकन मोमोस,non-veg,6 pcs,180,,
+Soup & Momos,Momos,crispy-chicken-momos,Crispy Chicken Momos,क्रिस्पी चिकन मोमोस,non-veg,6 pcs,180,,
+Chicken Starters,Dry Starters,chicken-65,Chicken 65,चिकन 65,non-veg,1 plate,200,,
+Chicken Starters,Dry Starters,chilli-chicken-dry,Chilli Chicken Dry,चिल्ली चिकन ड्राई,non-veg,1 plate,230,,
+Chicken Starters,Dry Starters,dragon-chicken,Dragon Chicken,ड्रैगन चिकन,non-veg,1 plate,250,,
+Chicken Starters,Dry Starters,crispy-chicken,Crispy Chicken,क्रिस्पी चिकन,non-veg,1 plate,250,,
+Chicken Starters,Dry Starters,chicken-manchurian-dry,Chicken Manchurian Dry,चिकन मंचूरियन ड्राई,non-veg,1 plate,220,,
+Chicken Starters,Gravy Starters,chicken-chilli-gravy,Chicken Chilli Gravy,चिकन चिल्ली ग्रेवी,non-veg,1 plate,220,,
+Chicken Starters,Gravy Starters,chicken-manchurian-gravy,Chicken Manchurian Gravy,चिकन मंचूरियन ग्रेवी,non-veg,1 plate,220,,
+Chicken Starters,Lollipop & Wings,chicken-lollipop,Chicken Lollipop,चिकन लॉलीपोप,non-veg,4 pcs,230,,4 pieces
+Chicken Starters,Lollipop & Wings,chicken-wings,Chicken Wings,चिकन विंग्स,non-veg,6 pcs,230,,6 pieces
+Continental,Fried Chicken,chicken-crispy-wings,Chicken Crispy Wings,चिकन क्रिस्पी विंग्स,non-veg,1 plate,210,,
+Continental,Fried Chicken,chicken-pop-corn,Chicken Pop Corn,चिकन पोप कोर्न,non-veg,1 plate,220,,
+Continental,Fried Chicken,peri-peri-drum-stick,Peri Peri Drum Stick,पेरी पेरी ड्रम स्टिक,non-veg,1 plate,260,,
+Continental,Fried Chicken,crispy-boneless-chicken-strip,Crispy Boneless Chicken Strip,क्रिस्पी बोनलेस चिकन स्ट्रिप,non-veg,1 plate,250,,
+Continental,Chicken & Fish Fry,chicken-fry,Chicken Fry,चिकन फ्राई,non-veg,Half / Full,200,Half: 200 | Full: 380,
+Continental,Chicken & Fish Fry,fish-fry-with-bone,Fish Fry With Bone,फिश फ्राई विथ बोन,non-veg,1 plate,200,,
+Tandoori Starters,Tikka & Tandoori,tandoori-chicken,Tandoori Chicken,तंदूरी चिकन,non-veg,Half / Full,250,Half: 250 | Full: 470,
+Tandoori Starters,Tikka & Tandoori,chicken-tikka,Chicken Tikka,चिकन टिक्का,non-veg,8 pcs,250,,8 pieces
+Tandoori Starters,Tikka & Tandoori,chicken-malai-tikka,Chicken Malai Tikka,चिकन मलाई टिक्का,non-veg,8 pcs,270,,8 pieces
+Tandoori Starters,Tikka & Tandoori,afghani-chicken-tikka,Afghani Chicken Tikka,अफगानी चिकन टिक्का,non-veg,8 pcs,280,,8 pieces
+Tandoori Starters,Tikka & Tandoori,urban-special-chicken-tikka,Urban Special Chicken Tikka,अरबन स्पेशल चिकन टिक्का,non-veg,1 plate,290,,
+Tandoori Starters,Tikka & Tandoori,chicken-kali-mirch,Chicken Kali Mirch,चिकन काली मिर्च,non-veg,1 plate,260,Half: 260 | Full: 480,
+Tandoori Starters,Seekh Kabab,chicken-seekh-kabab,Chicken Seekh Kabab,चिकन सिक कबाब,non-veg,1 plate,260,,
+Tandoori Starters,Seekh Kabab,mutton-seekh-kabab,Mutton Seekh Kabab,मटन सिक कबाब,non-veg,1 plate,320,,
+Tandoori Starters,Bhuna Gosht,chicken-bhuna-gosht,Chicken Bhuna Gosht,चिकन भूना गोश्त,non-veg,6 pcs,280,,6 pieces
+Tandoori Starters,Bhuna Gosht,mutton-bhuna-gosht,Mutton Bhuna Gosht,मटन भूना गोश्त,non-veg,4 pcs,300,,4 pieces
+Main Course,Chicken Curry,kadhai-chicken,Kadhai Chicken,कढ़ाई चिकन,non-veg,Serves 2,250,Half: 250 | Full: 470,
+Main Course,Chicken Curry,handi-chicken,Handi Chicken,हांडी चिकन,non-veg,Serves 2,260,Half: 260 | Full: 480,
+Main Course,Chicken Curry,chicken-curry,Chicken Curry,चिकन करी,non-veg,Serves 2,240,Half: 240 | Full: 450,
+Main Course,Chicken Curry,chicken-dhaba,Chicken Dhaba,चिकन ढाबा,non-veg,Serves 2,260,Half: 260 | Full: 480,
+Main Course,Chicken Curry,chicken-do-pyaza,Chicken Do Pyaza,चिकन दो प्याजा,non-veg,Serves 2,250,Half: 250 | Full: 470,
+Main Course,Chicken Curry,butter-chicken-boneless,Butter Chicken Boneless,बटर चिकन बोन लेस,non-veg,Serves 2,270,Half: 270 | Full: 510,
+Main Course,Chicken Curry,butter-chicken-with-bone,Butter Chicken With Bone,बटर चिकन विथ बोन,non-veg,Serves 2,250,Half: 250 | Full: 480,
+Main Course,Chicken Curry,chicken-tikka-masala,Chicken Tikka Masala,चिकन टिक्का मसाला,non-veg,Serves 2,280,,
+Main Course,Mutton Curry,handi-mutton,Handi Mutton,हांडी मटन,non-veg,4 pcs,280,,4 pieces
+Main Course,Mutton Curry,mutton-rogan-josh,Mutton Rogan Josh,मटन रोगन जोश्त,non-veg,4 pcs,290,,4 pieces
+Main Course,Mutton Curry,mutton-curry,Mutton Curry,मटन करी,non-veg,4 pcs,270,,4 pieces
+Main Course,Mutton Curry,mutton-do-pyaza,Mutton Do Pyaza,मटन दो प्याजा,non-veg,4 pcs,270,,4 pieces
+Main Course,Mutton Curry,mutton-dhaba,Mutton Dhaba,मटन ढाबा,non-veg,4 pcs,290,,4 pieces
+Main Course,Egg & Fish,egg-curry,Egg Curry,ऐग करी,egg,Serves 2,120,,
+Main Course,Egg & Fish,egg-masala,Egg Masala,ऐग मसाला (अण्डा मसाला),egg,Serves 2,150,,
+Main Course,Egg & Fish,bengal-fish-curry,Bengal Fish Curry,बंगाल फिश करी,non-veg,Serves 2,250,,
+Biryani & Chinese,Biryani,chicken-biryani,Chicken Biryani,चिकन बिरयानी,non-veg,1 plate,260,,
+Biryani & Chinese,Biryani,mutton-biryani,Mutton Biryani,मटन बिरयानी,non-veg,1 plate,290,,
+Biryani & Chinese,Biryani,egg-biryani,Egg Biryani,एग बिरयानी,egg,1 plate,250,,
+Biryani & Chinese,Fried Rice,chicken-fried-rice,Chicken Fried Rice,चिकन फ्राइड राइस,non-veg,1 plate,220,,
+Biryani & Chinese,Fried Rice,egg-fried-rice,Egg Fried Rice,एग फ्राइड राइस,egg,1 plate,200,,
+Biryani & Chinese,Noodles,chicken-noodles,Chicken Noodles,चिकन नूडल्स,non-veg,1 plate,210,,
+Biryani & Chinese,Noodles,egg-noodles,Egg Noodles,एग नूडल्स,egg,1 plate,200,,
+Pizza,Chicken Pizza,china-town-pizza,China Town Pizza,चाइना टॉउन पिज़्ज़ा,non-veg,7 inch,270,,
+Pizza,Chicken Pizza,chicken-tikka-pizza,Chicken Tikka Pizza,चिकन टिक्का पिज़्ज़ा,non-veg,7 inch,280,,
+Pizza,Chicken Pizza,chicken-masala-pizza,Chicken Masala Pizza,चिकन मसाला पिज़्ज़ा,non-veg,7 inch,280,,
+Pizza,Chicken Pizza,chicken-supreme-pizza,Chicken Supreme Pizza,चिकन सुप्रीम पिज़्ज़ा,non-veg,7 inch,270,,
+Pizza,Chicken Pizza,chicken-makhani-pizza,Chicken Makhani Pizza,चिकन मखानी पिज़्ज़ा,non-veg,7 inch,250,,
+Pizza,Chicken Pizza,chicken-peri-peri-pizza,Chicken Peri Peri Pizza,चिकन पेरी पेरी पिज़्ज़ा,non-veg,7 inch,260,,
+Pizza,Chicken Pizza,urban-special-chicken-pizza,Urban Special Chicken Pizza,अरबन स्पेशल चिकन पिज़्ज़ा,non-veg,7 inch,290,,
+Roti & Thali,Roti & Paratha,tandoori-roti,Tandoori Roti,तंदूरी रोटी,veg,1 pc,25,,
+Roti & Thali,Roti & Paratha,butter-roti,Butter Roti,बटर रोटी,veg,1 pc,30,,
+Roti & Thali,Roti & Paratha,lachha-paratha,Lachha Paratha,लच्छा परांठा,veg,1 pc,45,,
+Roti & Thali,Roti & Paratha,missi-roti,Missi Roti,मिस्सी रोटी,veg,1 pc,50,,
+Roti & Thali,Roti & Paratha,varqi-paratha,Varqi Paratha,वर्की परांठा,veg,1 pc,50,,
+Roti & Thali,Naan,plain-naan,Plain Naan,प्लेन नान,veg,1 pc,50,,
+Roti & Thali,Naan,butter-naan,Butter Naan,बटर नान,veg,1 pc,60,,
+Roti & Thali,Naan,garlic-naan,Garlic Naan,गार्लिक नान,veg,1 pc,70,,
+Roti & Thali,Thali,chicken-thali,Chicken Thali,चिकन थाली,non-veg,1 thali,270,,"2 pc chicken curry, 1 pc chicken biryani, 2 pc chicken tikka, baby naan, baby lachha, baby missi, raita, salad, papad, sweet"
+Roti & Thali,Thali,mutton-thali,Mutton Thali,मटन थाली,non-veg,1 thali,300,,"2 pc mutton curry, 1 pc mutton biryani, baby naan, baby lachha, baby missi, raita, salad, papad, pickle, sweet"

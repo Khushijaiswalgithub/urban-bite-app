@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blinkit-green: #0C831F;
+  --color-blinkit-yellow: #F8CB46;
+}
+
+body {
+  background-color: var(--color-gray-50);
+  color: var(--color-gray-900);
+}

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "872523215931",
+    "project_id": "zomato-clone-98044",
+    "storage_bucket": "zomato-clone-98044.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872523215931:android:70193a772066a0ff31d81e",
+        "android_client_info": {
+          "package_name": "com.example.blinkit_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25WjYbS6fXh6zegBSSXJHFbmATu-icU4"
+        },
+        {
+          "current_key": "AIzaSyDVr9dIfVYVFyyEXCjj-Uk_-llOmhD6dVs"
+        },
+        {
+          "current_key": "AIzaSyCTgdbuO1PLsGHMJUA4FlajojJJx2O--aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872523215931:android:6a4d7d68557f4df731d81e",
+        "android_client_info": {
+          "package_name": "com.sandhya.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25WjYbS6fXh6zegBSSXJHFbmATu-icU4"
+        },
+        {
+          "current_key": "AIzaSyDVr9dIfVYVFyyEXCjj-Uk_-llOmhD6dVs"
+        },
+        {
+          "current_key": "AIzaSyCTgdbuO1PLsGHMJUA4FlajojJJx2O--aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872523215931:android:4ab6a6368069941f31d81e",
+        "android_client_info": {
+          "package_name": "com.sandhya.sandhya_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC25WjYbS6fXh6zegBSSXJHFbmATu-icU4"
+        },
+        {
+          "current_key": "AIzaSyDVr9dIfVYVFyyEXCjj-Uk_-llOmhD6dVs"
+        },
+        {
+          "current_key": "AIzaSyCTgdbuO1PLsGHMJUA4FlajojJJx2O--aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
